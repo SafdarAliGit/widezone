@@ -1,6 +1,6 @@
 ## Lucrum WideZone
 
-LucrumERP Customization for WideZone
+ERP Customization
 
 #### License
 

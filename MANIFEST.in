@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include widezone *.css
+recursive-include widezone *.csv
+recursive-include widezone *.html
+recursive-include widezone *.ico
+recursive-include widezone *.js
+recursive-include widezone *.json
+recursive-include widezone *.md
+recursive-include widezone *.png
+recursive-include widezone *.py
+recursive-include widezone *.svg
+recursive-include widezone *.txt
+recursive-exclude widezone *.pyc
